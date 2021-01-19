@@ -1,0 +1,54 @@
+.suno{
+    width: 370px;
+    height: 270px;
+    margin: 10px;
+    padding: 5px;
+    padding-bottom: 20px ;
+    display: inline-block;
+    border-bottom: rgb(223, 223, 223) 1px solid;
+
+    .contacto{ 
+        width: 300px;
+        height: 70px;
+        margin: 10px;
+        padding: 10px;  
+        display: inline-block;  
+        border-bottom: rgb(223, 223, 223) 1px solid;
+    }
+
+    .habili{
+        display: inline-block;
+        width: 300px;
+        height: 100px;
+        margin: 10px;
+        padding: 10px;
+        h1{
+            position: absolute;
+            top:420px ;
+            left: 50px;
+        }
+        img{
+            position: absolute;
+            left: 15px;
+            top:415px ;
+        }
+
+        p{
+            position: absolute;
+            width: 300px;
+            top:460px ;
+            align-content: center; 
+        span{
+            font-size: 12px;
+            font-weight: bolder;
+            }
+        }
+    }
+
+
+
+
+
+
+    
+}
